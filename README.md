@@ -1,2 +1,2 @@
 # repository-template
-a repository template
+new repository template
